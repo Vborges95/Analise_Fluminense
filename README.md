@@ -10,11 +10,11 @@ O Fluminense fechou 2025 com a maior receita bruta da sua história — R$ 1,022
 
 ## Conteúdo do projeto
 
-📋 **[Executive Summary em PDF](executive_summary_fluminense.pdf)** — Filtro de leitura de 2-3 minutos com tese central, números-âncora, cenários compactos, riscos rankeados e implicações por público. Para quem precisa decidir se vai mergulhar no resto do material.
+📋 **[Executive Summary em PDF](Executive_Summary_Fluminense.pdf)** — Filtro de leitura de 2-3 minutos com tese central, números-âncora, cenários compactos, riscos rankeados e implicações por público. Para quem precisa decidir se vai mergulhar no resto do material.
 
 📰 **[Versão resumida no Substack]([LINK_SUBSTACK](https://substack.com/@vborges/note/c-263521716))** — Post de 7.895 caracteres com a tese principal e os cenários 2026-2027. Tom acessível para leitor amplo sem perder o rigor analítico.
 
-📄 **[Análise completa em PDF](analise_fluminense_2025.pdf)** — Documento de 16 páginas com diagnóstico do triênio, projeção 2026-2027 nos três cenários, definição numérica de competitividade financeira, e leitura aprofundada dos dois caminhos (Continuidade vs. SAF). Anexo metodológico explicita todas as fontes e estimativas.
+📄 **[Análise completa em PDF](Analise_Fluminense_2025.pdf)** — Documento de 16 páginas com diagnóstico do triênio, projeção 2026-2027 nos três cenários, definição numérica de competitividade financeira, e leitura aprofundada dos dois caminhos (Continuidade vs. SAF). Anexo metodológico explicita todas as fontes e estimativas.
 
 📊 **[Planilha consolidada](fluminense_modelo.xlsx)** — Modelo financeiro completo com 11 abas e 831 fórmulas. Inclui Balanço Patrimonial, DRE, DFC, decomposição de receita por categoria, análise operacional pura (EBITDA recorrente puro), painel de indicadores, e modelo de projeção 2026-2027 com três cenários totalmente editáveis pelo leitor.
 
