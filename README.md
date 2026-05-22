@@ -73,8 +73,8 @@ A metodologia é consistente entre os estudos: mesmas convenções visuais, mesm
 
 **Vinicius Borges** — profissional de Financial Planning & Analysis baseado no Rio de Janeiro. Escreve sobre a intersecção entre finanças e esportes no Substack e no LinkedIn.
 
-- 📧 [Substack](LINK_SUBSTACK_AUTOR)
-- 💼 [LinkedIn](LINK_LINKEDIN)
+- 📧 [Substack](LINK_SUBSTACK_AUTOR((https://substack.com/@vborges)))
+- 💼 [LinkedIn](LINK_LINKEDIN(https://www.linkedin.com/in/viniciusagborges/))
 
 ---
 
